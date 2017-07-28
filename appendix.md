@@ -1,13 +1,13 @@
 ---
 layout: default
 permalink: /appendix/
-title: Appendix
+title: Appendice
 class: license-types
 ---
 
-For reference, all licenses described in the choosealicense.com [repository](https://github.com/github/choosealicense.com), in a table.
+Per referenza, tutte le licenze descritte in questo sito riassunte in una tabella.
 
-If you're here to choose a license, **[start from the home page](/)** to see a few licenses that will work for most cases.
+Se sei qui per scegliere una licenza, **[inizia dalla homepage](/)** per vedere le licenze che funzionano nella maggior parte dei casi.
 
 <table border style="font-size: xx-small">
 {% assign types = "permissions|conditions|limitations" | split: "|" %}
@@ -59,13 +59,13 @@ If you're here to choose a license, **[start from the home page](/)** to see a f
 {% endfor %}
 </table>
 
-## Legend
+## Legenda
 
-<p>Open source licenses grant to the public <span class="license-permissions"><span class="license-sprite"></span></span> <b>permissions</b> to do things with licensed works copyright or other "intellectual property" laws might otherwise disallow.</p>
+<p>Le licenze open source garantiscono al pubblico <span class="license-permissions"><span class="license-sprite"></span></span> <b>permessi</b> di fare con l'opera licenziata cose che le normali leggi sul copyright o sulla "proprietà intellettuale" non permettono.</p>
 
-<p>Most open source licenses' grants of permissions are subject to compliance with <span class="license-conditions"><span class="license-sprite"></span></span> <b>conditions</b>.</p>
+<p>La maggior parte di queste licenze garantiscono permessi soggetti a <span class="license-conditions"><span class="license-sprite"></span></span> <b>condizioni</b>.</p>
 
-<p>Most open source licenses also have <span class="license-limitations"><span class="license-sprite"></span></span> <b>limitations</b> that usually disclaim warranty and liability and sometimes expressly exclude patent or trademark from licenses' grants.</p>
+<p>Molte licenze hanno anche <span class="license-limitations"><span class="license-sprite"></span></span> <b>limitazioni</b> che solitamente scaricano garanzie e responsabilità, e qualche volte escludono diritti su brevetti e trademark.</p>
 
 <dl>
 {% assign seen_tags = '' %}

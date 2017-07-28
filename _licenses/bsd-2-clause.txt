@@ -5,9 +5,9 @@ redirect_from: /licenses/bsd/
 source: http://opensource.org/licenses/BSD-2-Clause
 hidden: false
 
-description: A permissive license that comes in two variants, the <a href="/licenses/bsd-2-clause/">BSD 2-Clause</a> and <a href="/licenses/bsd-3-clause/">BSD 3-Clause</a>. Both have very minute differences to the MIT license.
+description: Una licenza permissiva in due varianti, <a href="/licenses/bsd-2-clause/">BSD 2-Clause</a> e <a href="/licenses/bsd-3-clause/">BSD 3-Clause</a>. Entrambe hanno solo piccole differenze con la MIT License.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Sostituisci [year] con l'anno corrente e [fullname] con il nome (o i nomi) dei detentori del copyright.
 
 using:
 

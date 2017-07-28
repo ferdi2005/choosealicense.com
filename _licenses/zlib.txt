@@ -3,9 +3,9 @@ title: zlib License
 spdx-id: Zlib
 source: https://opensource.org/licenses/Zlib
 
-description: A short permissive license, compatible with GPL. Requires altered source versions to be documented as such.
+description: Una breve licenza permissiva, compatibile con GPL. Anche questa richiede che le versioni modificate siano documentate.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Sostituisci [year] con l'anno corrente e [fullname] con il nome (o i nomi) dei detentori del copyright.
 
 using:
 

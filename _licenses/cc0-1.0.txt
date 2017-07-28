@@ -4,11 +4,11 @@ spdx-id: CC0-1.0
 redirect_from: /licenses/cc0/
 source: http://creativecommons.org/publicdomain/zero/1.0/
 
-description: The <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in any a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+description: La <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 Public Domain Dedication</a> implica la rinuncia del copyright sul lavoro che hai creato e lo destina al pubblico dominio. Usa la CC0 per assicurarti che la tua opera abbia la più ampia diffusione. Come la Unlicense e altre licenze software, CC0 declina ogni garanzia. CC0 è molto simile alla Unlicense.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the CC0 into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: Creative Commons recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be <a href="https://wiki.creativecommons.org/wiki/CC0_FAQ#May_I_apply_CC0_to_computer_software.3F_If_so.2C_is_there_a_recommended_implementation.3F">found on their website</a>.
+note: Creative Commons raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere <a href="https://wiki.creativecommons.org/wiki/CC0_FAQ#May_I_apply_CC0_to_computer_software.3F_If_so.2C_is_there_a_recommended_implementation.3F">trovata sul sito</a>.
 
 using:
 

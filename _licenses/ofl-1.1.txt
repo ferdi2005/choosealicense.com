@@ -4,11 +4,11 @@ spdx-id: OFL-1.1
 redirect_from: /licenses/ofl/
 source: http://scripts.sil.org/OFL_web
 
-description: The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla.
+description: La Open Font License (OFL) è mantenuta da SIL International. Cerca di essere un compromesso tra i valori del software libero e la community di design tipografico. È utilizzata per quasi tutti i progetti di font open source, inclusi quelli di Adobe, Google e Mozilla.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your font source and copy the text of the license into the file. Replace [year] with the current year and [fullname] ([email]) with the name and contact email address of each copyright holder. You may take the additional step of appending a Reserved Font Name notice. This option requires anyone making modifications to change the font's name, and is not ideal for web fonts (which all users will modify by changing formats and subsetting for their own needs.)
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Sostituisci [year] con l'anno corrente e [fullname] ([email]) con il nome e l'indirizzo mail dei detentori del copyright. Puoi inoltre aggiungere una nota di Reserved Font Name; questa opzione richiede che chiunque faccia modifiche cambi il nome del font, ma non è ideale per i web font (che tutti gli utenti modificano nel formato o nell'insieme dei caratteri usati a seconda dei propri bisogni).
 
-note: This license doesn't require source provision, but recommends it. All files derived from OFL files must remain licensed under the OFL.
+note: Questa licenza non richiede la distribuzione dei sorgenti, ma la raccomanda. Tutti i file derivati da file licenziati in OFL devono rimanere in OFL.
 
 using:
 

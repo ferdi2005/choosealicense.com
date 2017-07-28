@@ -1,6 +1,6 @@
 ---
-title: Choose a License
-description: Non-judgmental guidance on choosing a license for your open source project
+title: Scegli una Licenza
+description: Una guida per scegliere la licenza del tuo progetto open source
 relative_permalinks: false
 markdown: kramdown
 url: "https://choosealicense.com"
@@ -45,4 +45,4 @@ sass:
     style: :compressed
 
 twitter:
-  username: "@github"
+  username: "@ItaLinuxSociety"

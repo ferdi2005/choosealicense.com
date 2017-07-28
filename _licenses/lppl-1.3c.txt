@@ -3,11 +3,11 @@ title: LaTeX Project Public License v1.3c
 spdx-id: LPPL-1.3c
 source: https://latex-project.org/lppl/lppl-1-3c.html
 
-description: The LaTeX Project Public License (LPPL) is the primary license under which the LaTeX kernel and the base LaTeX packages are distributed.
+description: La LaTeX Project Public License (LPPL) è la principale licenza con cui il kernel LaTeX ed i suoi pacchetti base sono distribuiti.
 
-how: To use this license, place in each of the components of your work both an explicit copyright notice including your name and the year the work was authored and/or last substantially modified. Include also a statement that the distribution and/or modification of that component is constrained by the conditions in this license.
+how: Per usare questa licenza, metti in ciascun componente dell'opera una esplicita nota sul copyright con il tuo nome e l'anno in cui l'opera è stata creata e/o in cui sono state apportate modifiche sostanziali. Includi anche una dichiarazione sul fatto che la distribuzione e la modifica di tali componenti è soggetta alle condizioni di questa licenza.
 
-note: An example boilerplate and more information about how to use the license can be found at the end of the license.
+note: Una nota di esempio ed altre informazioni su come usare questa licenza possono essere trovate nella licenza stessa.
 
 using:
 

@@ -6,11 +6,11 @@ redirect_from: /licenses/lgpl-v2.1/
 source: http://www.gnu.org/licenses/lgpl-2.1.txt
 hidden: false
 
-description: Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
+description: Usata principalmente per le librerie software, la GNU LGPL richiede che le opere derivate siano distribuite con la stessa licenza ma le opere linkate non ricadono nelle stesse condizioni. Ci sono due versioni comunemente usate della GNU LGPL.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: Free Software Foundation raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata in fondo alla licenza.
 
 using:
 

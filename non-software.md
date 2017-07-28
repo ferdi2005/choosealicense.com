@@ -1,23 +1,24 @@
 ---
-title: Non-Software Licenses
+title: Licenze Non Software
 layout: default
 permalink: /non-software/
 ---
 
-Open source software licenses can be used for non-software works, and often are the best choice. This is particularly the case when the works in question can be edited and versioned as source, e.g., [open source hardware](http://www.oshwa.org/definition/) designs. Choose an [open source license](/licenses/).
+Le licenze opensource possono essere usate anche per opere che non sono software, e spesso sono la scelta migliore. Questo è il caso di opere che possono essere modificate e trattate come codice sorgente, ad esempio i design [open source hardware](http://www.oshwa.org/definition/).
 
-### Data, media, etc.
+### Dati, media e altro
 
-[CC0-1.0](/licenses/cc0-1.0/), [CC-BY-4.0](/licenses/cc-by-4.0/), and [CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/) are [open](http://opendefinition.org) licenses used for non-software material ranging from datasets to videos. Note that CC-BY-4.0 and CC-BY-SA-4.0 should [not be used for software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
+[CC0-1.0](/licenses/cc0-1.0/), [CC-BY-4.0](/licenses/cc-by-4.0/), e [CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/) sono licenze [aperte](http://opendefinition.org) usate per materiale non software, dagli insiemi di dati ai video. Nota però che CC-BY-4.0 e CC-BY-SA-4.0 [non dovrebbero essere usate per il software](https://creativecommons.it/faq#16).
 
-### Documentation
+### Documentazione
 
-Any open source software license or open license for media (see [above](#data-media-etc)) is applicable to software documentation. If you use different licenses for your software and its documentation, you may wish to take care that source code examples in the documentation are also licensed under the software license.
+Ogni licenza opensource per i media (vedi [sopra](#dati-media-e-altro)) è applicabile alla documentazione del software. Se adotti licenze diverse per il software e per la sua documentazione, ricorda che eventuali esempi di codice sorgente inclusi nella documentazione saranno distribuiti con la licenza del software.
 
 ### Fonts
 
-The [SIL Open Font License 1.1](/licenses/ofl-1.1/) keeps fonts open but allows them to be freely used in other works.
+La [SIL Open Font License 1.1](/licenses/ofl-1.1/) mantiene i font aperti e permette che essi possano essere liberamente usati in altre opere.
 
-### Mixed Projects
+### Progetti Misti
 
-If your project contains a mix of software and other material, you can include multiple licenses, as long as you are explicit about which license applies to what parts of the project.  See [the license notice for this site](https://github.com/github/choosealicense.com#license) as an example.
+Se il tuo progetto contiene un mix di software e altro materiale puoi includere diverse licenze, premesso che tu espliciti quale licenza viene applicata a quale parte del progetto.
+

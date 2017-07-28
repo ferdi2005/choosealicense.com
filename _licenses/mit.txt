@@ -5,9 +5,9 @@ source: https://opensource.org/licenses/MIT
 featured: true
 hidden: false
 
-description: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: Una breve e semplice licenza permissiva le cui uniche condizioni riguardano la tutela delle note sul copyright e sulla licenza. L'opera, le sue modifiche, o lavori più estesi basati su di essa possono essere distribuiti con una licenza diversa, anche proprietaria e anche senza codice sorgente.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Sostituisci [year] con l'anno corrente e [fullname] con il nome (o i nomi) dei detentori del copyright.
 
 using:
   - jQuery: https://github.com/jquery/jquery/blob/master/LICENSE.txt

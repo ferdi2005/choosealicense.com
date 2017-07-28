@@ -6,11 +6,11 @@ redirect_from: /licenses/lgpl-v3/
 source: http://www.gnu.org/licenses/lgpl-3.0.txt
 hidden: false
 
-description: Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
+description: I permessi di questa licenza copyleft sono condizionati dal fatto di mettere a disposizione l'intero codice sorgente dell'opera e delle sue modifiche con la medesima licenza o con la GNU GPLv3. Le note sul copyright e sulla licenza devono essere preservate. Ai contributori è fornita una esplicita concessione sui brevetti. Comunque, un'opera che utilizzi il software per tramite delle interfacce esposte dal software in oggetto può essere distribuito con una licenza diversa, anche proprietaria e anche senza codice sorgente.
 
-how: This license is an additional set of permissions to the <a href="/licenses/gpl-3.0">GNU GPLv3</a> license. Follow the instructions to apply the GNU GPLv3. Then add a separate file named COPYING.LESSER in the root of your source code and copy the text.
+how: Questa licenza è un insieme di permessi addiozionali alla licenza <a href="/licenses/gpl-3.0">GNU GPLv3</a>. Segui le istruzioni per applicare la GNU GPLv3. Poi aggiungi un file separato nominato COPYING.LESSER nella cartella principale del tuo progetto e copia il testo.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the <a href="/licenses/gpl-3.0">GNU GPLv3 license</a>. Insert the word “Lesser” before “General” in all three places in the boilerplate notice to make sure that you refer to the GNU LGPLv3 and not the GNU GPLv3.
+note: Free Software Foundation raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata in fondo alla licenza <a href="/licenses/gpl-3.0">GNU GPLv3 license</a>. Aggiungi la parola "Lesser" prima di "General" in ogni frase della nota per essere certo di fare riferimento alla GNU LGPLv3 e non alla GNU GPLv3.
 
 using:
 

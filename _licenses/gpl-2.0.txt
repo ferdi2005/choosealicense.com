@@ -6,11 +6,11 @@ redirect_from: /licenses/gpl-v2/
 source: http://www.gnu.org/licenses/gpl-2.0.txt
 hidden: false
 
-description: The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
+description: La GNU GPL è la più usata licenza free software e ha requisiti copyleft. Quando vengono distribuite opere derivate, il codice sorgente deve essere disponibile con la stessa licenza. Ci sono diverse varianti della GNU GPL, ciascuna con diverse condizioni.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: Free Software Foundation raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata in fondo alla licenza.
 
 using:
   - Linux: https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/COPYING

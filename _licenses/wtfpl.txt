@@ -3,9 +3,9 @@ title: "Do What The F*ck You Want To Public License"
 spdx-id: WTFPL
 source: http://www.wtfpl.net/
 
-description: The easiest license out there. It gives the user permissions to do whatever they want with your code.
+description: La più semplice delle licenze. Da agli utenti il permesso di fare qualsiasi cosa vogliano col codice.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
 using:
 

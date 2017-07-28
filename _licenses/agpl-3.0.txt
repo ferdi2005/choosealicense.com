@@ -6,11 +6,11 @@ redirect_from: /licenses/agpl/
 source: http://www.gnu.org/licenses/agpl-3.0.txt
 hidden: false
 
-description: Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
+description: I permessi di questa licenza copyleft sono condizionati dal fatto di mettere a disposizione l'intero codice sorgente dell'opera e delle sue modifiche (che possono includere anche opere più estese che usano quella originaria) con la medesima licenza. Le note sul copyright e sulla licenza devono essere preservate. Ai contributori è fornita una esplicita concessione sui brevetti. Quando il software è usato per fornire un servizio via rete, l'intero codice sorgente deve essere messo a disposizione.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: Free Software Foundation raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata in fondo alla licenza.
 
 using:
 

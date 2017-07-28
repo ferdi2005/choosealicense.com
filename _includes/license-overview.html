@@ -19,12 +19,12 @@
   <div class="license-details">
       <table class="license-rules">
         <tr>
-        {% assign types = "permissions|conditions|limitations" | split: "|" %}
-        {% for type in types %}
-          <th class="label">{{ type | capitalize }}</th>
-        {% endfor %}
+          <th class="label">Permessi</th>
+          <th class="label">Condizioni</th>
+          <th class="label">Limitazioni</th>
         </tr>
         <tr>
+          {% assign types = "permissions|conditions|limitations" | split: "|" %}
           {% for type in types %}
             <td>
               <ul class="license-{{ type }}">
@@ -43,7 +43,7 @@
           {% endfor %}
         </tr>
       </table>
-      <p class="small"><a href="{{ license.url }}">View full {{ license.title }} »</a></p>
+      <p class="small"><a href="{{ license.url }}">Vedi i dettagli di {{ license.title }} »</a></p>
   </div>
 </div>
 {% endfor %}

@@ -5,11 +5,11 @@ redirect_from: /licenses/mozilla/
 source: https://www.mozilla.org/media/MPL/2.0/index.txt
 hidden: false
 
-description: Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+description: I permessi di questa licenza copyleft sono condizionati dal fatto di mettere a disposizione il codice sorgente dei file licenziati, e le modifiche dei file stessi, con la medesima licenza (o, in alcuni casi, con una delle licenze GNU). Le note sul copyright e sulla licenza devono essere preservate. Ai contributori è fornita una esplicita concessione sui brevetti. Comunque, un lavoro basato sull'opera in oggetto può essere distribuito con una licenza diversa, anche proprietaria e anche senza il codice sorgente dei file aggiunti.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: The Mozilla Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license (Exhibit A).
+note: Mozilla Foundation raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata in fondo alla licenza (Exhibit A).
 
 using:
   - Servo: https://github.com/servo/servo/blob/master/LICENSE

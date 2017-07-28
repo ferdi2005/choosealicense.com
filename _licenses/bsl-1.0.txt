@@ -3,11 +3,11 @@ title: Boost Software License 1.0
 spdx-id: BSL-1.0
 source: https://opensource.org/licenses/BSL-1.0
 
-description: A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: Una semplice licenza permissiva che richiede solo di preservare le note sul copyright e la licenza nella distribuzione dei sorgenti (non in quella binaria). L'opera, le sue modifiche, o lavori più estesi basati su di essa possono essere distribuiti con una licenza diversa, anche proprietaria e anche senza codice sorgente.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
-note: Boost recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the [Boost Software License FAQ](http://www.boost.org/users/license.html#FAQ).
+note: Boost raccomanda di aggiungere una nota in cima ad ogni file. La nota di riferimento può essere trovata nelle [Boost Software License FAQ](http://www.boost.org/users/license.html#FAQ).
 
 using:
 

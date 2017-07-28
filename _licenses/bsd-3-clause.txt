@@ -4,9 +4,9 @@ spdx-id: BSD-3-Clause
 source: http://opensource.org/licenses/BSD-3-Clause
 hidden: false
 
-description: A permissive license similar to the <a href="/licenses/bsd-2-clause/">BSD 2-Clause License</a>, but with a 3rd clause that prohibits others from using the name of the project or its contributors to promote derived products without written consent.
+description: Una licenza permissiva simile alla <a href="/licenses/bsd-2-clause/">BSD 2-Clause License</a>, ma con una terza clausola che proibisce l'uso del nome del progetto o dei suoi contributori per promuovere prodotti derivati senza permesso scritto.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. Replace [project] with the project organization, if any, that sponsors this work.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Sostituisci [year] con l'anno corrente e [fullname] con il nome (o i nomi) dei detentori del copyright.
 
 using:
 

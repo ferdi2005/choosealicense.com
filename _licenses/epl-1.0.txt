@@ -5,9 +5,9 @@ redirect_from: /licenses/eclipse/
 source: https://www.eclipse.org/legal/epl-v10.html
 hidden: false
 
-description: This commercially-friendly copyleft license provides the ability to commercially license binaries; a modern royalty-free patent license grant; and the ability for linked works to use other licenses, including commercial ones.
+description: Questa licenza copyleft da un esplicito consenso alla distribuzione commerciale dei binari, una moderna concessione sui brevetti esente da diritti, la possibilità per le opere linkate di usare altre licenze.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza.
 
 using:
   - Clojure: https://github.com/clojure/clojure/blob/master/epl-v10.html

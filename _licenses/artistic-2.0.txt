@@ -4,9 +4,9 @@ spdx-id: Artistic-2.0
 redirect_from: /licenses/artistic/
 source: http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt
 
-description: Heavily favored by the Perl community, the Artistic license requires that modified versions of the software do not prevent users from running the standard version.
+description: Ampiamente favorita dalla community Perl, la Artistic License richiede che versioni modificate del software non impediscano agli utenti di eseguire la versione originale.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code, and copy the text of the license into the file. Do not replace the copyright notice (year, author), which refers to the license itself, not the licensed project.
+how: Crea un file di testo (solitamente chiamato LICENSE o LICENSE.txt) nella cartella principale del tuo progetto e copiaci il testo della licenza. Non modificare la nota sul copyright (anno e autore), che fa riferimento alla licenza stessa, non all'opera licenziata.
 
 using:
 
