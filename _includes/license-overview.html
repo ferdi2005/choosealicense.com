@@ -4,7 +4,7 @@
 <div class="license-overview clearfix" id="{{ include.license-id | slugify }}">
   <div class="license-overview-heading">
     <h3 class="license-overview-name">
-      <a href="{{ license.url }}">
+      <a href="{{ site.url }}{{ license.url }}">
           {% if license.nickname %}
             {{ license.nickname }}
           {% else %}
@@ -43,7 +43,7 @@
           {% endfor %}
         </tr>
       </table>
-      <p class="small"><a href="{{ license.url }}">Vedi i dettagli di {{ license.title }} »</a></p>
+      <p class="small"><a href="{{ site.url }}{{ license.url }}">Vedi i dettagli di {{ license.title }} »</a></p>
   </div>
 </div>
 {% endfor %}

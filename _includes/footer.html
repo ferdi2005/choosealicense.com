@@ -1,6 +1,6 @@
       <footer class="site-footer clearfix">
         <nav>
-          <a href="/about/">About</a>
+          <a href="{{ site.url }}/about/">About</a>
         </nav>
         <p>
           I contenuti di questo sito sono distribuiti secondo i termini della licenza <a href="https://creativecommons.org/licenses/by/3.0/">
@@ -14,13 +14,13 @@
     </div> <!-- /container -->
 
     {% if page.collection == "licenses" or page.class == "license-types" %}
-    <script src="/assets/vendor/jquery/jquery.min.js"></script>
-    <script src="/assets/vendor/qtip2/jquery.qtip.min.js"></script>
-    <script src="/assets/vendor/clipboard/dist/clipboard.min.js"></script>
+    <script src="{{ site.url }}/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="{{ site.url }}/assets/vendor/qtip2/jquery.qtip.min.js"></script>
+    <script src="{{ site.url }}/assets/vendor/clipboard/dist/clipboard.min.js"></script>
     <script>
       window.annotations = {{ site.data.rules | jsonify }};
     </script>
-    <script src="/assets/js/app.js"></script>
+    <script src="{{ site.url }}/assets/js/app.js"></script>
     {% endif %}
 
   </body>

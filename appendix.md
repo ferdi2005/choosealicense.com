@@ -27,7 +27,7 @@ Se sei qui per scegliere una licenza, **[inizia dalla homepage](/)** per vedere 
 </tr>
 {% assign licenses = site.licenses sort: "path" %}
 {% for license in licenses %}
-  <tr style="height: 3em"><th scope="row"><a href="{{ license.id }}">{{ license.title }}</a></th>
+  <tr style="height: 3em"><th scope="row"><a href="{{ site.url }}{{ license.url }}">{{ license.title }}</a></th>
   {% assign seen_tags = '' %}
   {% for type in types %}
     {% assign rules = site.data.rules[type] | sort: "label" %}

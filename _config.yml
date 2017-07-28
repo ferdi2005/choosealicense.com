@@ -1,9 +1,8 @@
 ---
 title: Scegli una Licenza
 description: Una guida per scegliere la licenza del tuo progetto open source
-relative_permalinks: false
 markdown: kramdown
-url: "https://choosealicense.com"
+url: "http://localhost/choosealicense"
 
 collections:
   licenses:

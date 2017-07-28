@@ -10,7 +10,7 @@ Se già sai cosa stai facendo ed hai una licenza che preferisci usare, va beniss
 
 ## Non esaustivo
 
-Questo sito non è una lista completa di licenze opensource. Pensiamo che esistano troppe opzioni, che aggiungono ulteriore confusione. Nella [homepage](/) presentiamo solo due licenze: la larga maggioranza dei progetti possono serenamente scegliere una di queste. Nel caso in cui tu abbia specifiche esigenze, ne abbiamo selezionato [un piccolo gruppo da prendere n considerazione](/licenses/), e abbiamo anche una pagina dedicata alle [licenze per progetti non software](/non-software/).
+Questo sito non è una lista completa di licenze opensource. Pensiamo che esistano troppe opzioni, che aggiungono ulteriore confusione. Nella [homepage]({{ site.url }}) presentiamo solo due licenze: la larga maggioranza dei progetti possono serenamente scegliere una di queste. Nel caso in cui tu abbia specifiche esigenze, ne abbiamo selezionato [un piccolo gruppo da prendere n considerazione]({{ site.url }}/licenses/), e abbiamo anche una pagina dedicata alle [licenze per progetti non software]({{ site.url }}/non-software/).
 
 Consulta l'appendice per una tabela di tutte le licenze classificate in questo sito e i link qua sotto per *ancora altre licenze* che **non devi** necessariamente conoscere per sceglierne una per il tuo progetto.
 

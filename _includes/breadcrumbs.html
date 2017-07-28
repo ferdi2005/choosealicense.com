@@ -2,9 +2,9 @@
   <ol>
     <li>
       {% if page.layout == "license" %}
-        <a href="/">Home</a> / <a href="/licenses/">Licenze</a>
+        <a href="{{ site.url }}">Home</a> / <a href="{{ site.url }}/licenses/">Licenze</a>
       {% else %}
-        <a href="/">Home</a>
+        <a href="{{ site.url }}">Home</a>
       {% endif %}
     </li>
   </ol>
@@ -16,21 +16,21 @@
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "{{ site.github.url }}/",
+        "@id": "{{ site.url }}/",
         "name": "Home"
       }
     },{% if page.layout == "license" %}{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "{{ site.github.url }}/licenses",
+        "@id": "{{ site.url }}/licenses",
         "name": "Licenses"
       }
     },{% endif %}{
       "@type": "ListItem",
       "position": {% if page.layout == "license" %}3{% else %}2{% endif %},
       "item": {
-        "@id": "{{ site.github.url }}{{ page.url }}",
+        "@id": "{{ site.url }}{{ page.url }}",
         "name": {{ page.title | jsonify }}
       }
     }]
