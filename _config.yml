@@ -43,5 +43,7 @@ gems:
 sass:
     style: :compressed
 
+lang: it_IT
+
 twitter:
   username: "@ItaLinuxSociety"
